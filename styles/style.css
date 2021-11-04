@@ -7,19 +7,68 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: #f2f2f2;
+  position: relative;
 }
 
 .header {
   height: 100vh;
+  background: #f2f2f2;
   min-height: 600px;
   max-height: 756px;
+  margin-left: 64px;
   /* выше установили ограничения для секции */
+}
+
+.logo_place_header {
+  margin-top: 30px;
+}
+/* лого хедера */
+
+.main-illustration {
+  width: 765px;
+  height: 608px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 2;
+  align-items: center;
+}
+
+.header__title {
+  position: absolute;
+  top: 200px;
+  max-width: 730px;
+  font-size: 102px;
+  line-height: 96px;
+  z-index: 3;
+}
+
+.header__subtitle {
+  width: 388px;
+  text-align: left;
+  font-size: 18px;
+  position: absolute;
+  margin-bottom: 30px;
+  bottom: 0;
+  z-index: 3;
+}
+
+.header__link {
+  color: #2F80ED;
+  text-decoration: none;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
+  background: #2F80ED;
+  position: absolute;
+  top: 64px;
+  bottom: 124px;
+  right: 0;
+  z-index: 1;
 }
 
 /* и элемента с модификатором вида ключ-значение */
