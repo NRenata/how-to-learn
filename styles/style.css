@@ -12,16 +12,23 @@
 
 .header {
   height: 100vh;
-  background: #f2f2f2;
   min-height: 600px;
   max-height: 756px;
+  background-color:#F2F2F2;
+  display: flex;
   position: relative;
+  margin-bottom: 100px;
+  overflow: hidden;
   /* выше установили ограничения для секции */
 }
 
 .logo_place_header {
-  margin-top: 30px;
-  margin-left: 64px;
+  position: absolute;
+  top: 30px;
+  order: 1;
+  left: 64px;
+  width: 180px;
+  height: 32px;
 }
 /* лого хедера */
 
@@ -36,14 +43,16 @@
 }
 
 .header__title {
-  position: absolute;
-  top: 200px;
-  max-width: 730px;
+  position: relative;
+  width: 730px;
   font-size: 102px;
   line-height: 96px;
-  font-style: normal;
+  left: 64px;
   z-index: 3;
-  margin-left: 64px;
+  font-weight: bold;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: inline-block;
 }
 
 .header__subtitle {
@@ -67,6 +76,7 @@
   height: 568px;
   width: 568px;
   background: #2F80ED;
+  overflow: hiddern;
   position: absolute;
   top: 64px;
   bottom: 124px;
@@ -138,8 +148,8 @@
   flex-direction: row;
   position:relative;
   margin-left: auto;
-  margin-right: auto; 
-  
+  margin-right: auto;
+
 }
 
 .table__text {
@@ -265,13 +275,13 @@
   background-image: url("../images/logo_place_footer.svg");
   width: 183px;
   height: 35px;
-  position: absolute;
-  left: 0;
-  top: 0;
 }
 
 .footer__column_content-copyright {
   flex-shrink: 1;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
 }
 
 .footer__author {
@@ -279,10 +289,9 @@
   font-size: 18px;
   margin-bottom: 18px;
   margin-top: 18px;
-  position: absolute;
-  bottom: 0;
-  left: 0;
   color:#fff;
+  display: flex;
+  justify-content: space-between;
 }
 
 .footer__social-icons {
@@ -326,6 +335,3 @@ ul {
   padding-left: 0;
   margin-left: 0;
 }
-
-
-
