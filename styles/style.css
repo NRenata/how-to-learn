@@ -136,7 +136,6 @@
 
 .section-title {
   padding-top: 100px;
-  color: #000000;
   max-width: 60%;
   font-size: 60px;
   line-height: 1.15;
@@ -146,7 +145,6 @@
 
 .section-subtitle {
   max-width: 60%;
-  color: #000000;
   line-height: 34px;
   font-size: 24px;
   text-align: center;
@@ -233,6 +231,14 @@
   background-color:#000;
   overflow: hidden;
   position: relative;
+}
+
+.section-title_theme_dark {
+  color: #f2f2f2;
+}
+
+.section-subtitle_theme_dark {
+  color: #f2f2f2;
 }
 
 .table_theme_dark {
@@ -338,28 +344,10 @@
   font-size: 18px;
   padding: 0;
   list-style-type: none;
-  margin: 0;
-}
-
-.footer__content-social a:link {
-  color:#f2f2f2;
-  text-decoration: none;
-}
-
-.footer__content-social a:visited {
-  color: #f2f2f2;
-  text-decoration: none;
-}
-
-.footer__column-links a:link {
-  color:#f2f2f2;
-  text-decoration: none;
-}
-
-.footer__column-links a:visited {
-  color: #f2f2f2;
 }
 
 .footer__column-link {
   margin: 0;
+  color:#f2f2f2;
+  text-decoration: none;
 }
