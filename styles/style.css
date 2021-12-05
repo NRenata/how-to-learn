@@ -112,9 +112,14 @@
 .two-columns__paragraph {
   font-size: 24px;
   line-height: 34px;
-  margin-top: 0;
+}
+
+.two-columns__paragraph:first-child {
+  margin-top: 0px;
   margin-bottom: 30px;
 }
+
+
 
 .two-columns__span-accent {
   font-weight: bold;
@@ -164,9 +169,9 @@
 }
 
 .table__text {
-  margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
+  margin: 0;
 }
 
 .table__cell {
