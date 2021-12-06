@@ -51,7 +51,7 @@
   width: 730px;
   font-size: 102px;
   line-height: 96px;
-  margin: 0px 0px 0px 64px;
+  margin: 0 0 0 64px;
   z-index: 3;
   font-weight: bold;
 }
@@ -112,14 +112,12 @@
 .two-columns__paragraph {
   font-size: 24px;
   line-height: 34px;
+  margin: 0 0 30px;
 }
 
-.two-columns__paragraph:first-child {
-  margin-top: 0px;
-  margin-bottom: 30px;
+.two-columns__paragraph:last-of-type {
+  margin-bottom: 0;
 }
-
-
 
 .two-columns__span-accent {
   font-weight: bold;
@@ -171,7 +169,7 @@
 .table__text {
   line-height: 1.2;
   font-size: 18px;
-  margin: 0;
+  margin: 20px 0 0 0;
 }
 
 .table__cell {
@@ -224,7 +222,7 @@
   background-color:#1f1f1f;
   overflow: hidden;
   position: relative;
-  z-index: -2;
+  z-index: -1;
 }
 
 .section-title_theme_dark {
