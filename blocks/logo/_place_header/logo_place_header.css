@@ -4,3 +4,7 @@
     order: 1;
     left: 64px;
 }
+.logo_place_header:hover {
+    opacity: 0.5;
+    transition: opacity 1s linear;
+}

@@ -2,3 +2,7 @@
     width: 183px;
     height: 35px;
 }
+.logo_place_footer:hover {
+    opacity: 0.5;
+    transition: opacity 1s linear;
+}
