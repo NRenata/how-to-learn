@@ -3,9 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="2a2984a9-903c-4e67-8ea4-ebe348920f8f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/logo/_place_footer/logo_place_footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place_footer/logo_place_footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/logo/_place_header/logo_place_header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place_header/logo_place_header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/cards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/feynman/__link/feynman__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feynman/__link/feynman__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-link/footer__column-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column-link/footer__column-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column/_content_copyrignt/footer__column_content_copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column/_content/footer__column_content_copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column/_content_info/footer__column_content_info.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column/_content/footer__column_content_info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column/_content_social/footer__column_content_social.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column/_content/footer__column_content_social.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__link/header__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/__triangle/kaufman__triangle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/__triangle/kaufman__triangle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__quote-author/khan__quote-author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__quote-author/khan__quote-author.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/logo/_place_footer/logo_place_footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/logo/_place_header/logo_place_header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/oakley/oakley.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/oakley/oakley.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/resources/resources.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/resources.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/section-subtitle/_theme_dark/section-subtitle_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/_theme/section-subtitle_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/section-title/_theme_dark/section-title_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/_theme/section-title_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/table/__cell/_theme_dark/table__cell_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__cell/_theme/table__cell_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/table/_theme_dark/table_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/_theme/table_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
